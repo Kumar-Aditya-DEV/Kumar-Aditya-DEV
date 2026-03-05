@@ -1,104 +1,172 @@
-<h3 align="center">Hey👋 What's Up,</h3>
-
-<h1 align="center">I'm Aditya Kumar </h1>
-<h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Web+Developer;Crafting+Innovative+Solutions;Enthusiast+Programmer;Turning+Logic+into+Impactful+Code" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=220&section=header&text=Aditya%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-### <pre margin:20px> 🌐Web Developer  |  C Programmer  |  💻Creative Coder  |  🎮Game Developer  |  🎮Gamer</pre>
+<h3 align="center">Hey 👋 What's Up</h3>
+
+<h1 align="center">I'm Aditya Kumar</h1>
+
+<h4 align="center">
+Computer Science Student | Web Developer | Aspiring Software Developer
+</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-060ba6376/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="aditya.kumar.j.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Aditya-Kumar-DEV-x5q" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  &nbsp;
- <a href="https://x.com/AdityaXDev" target="_blank">
-  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Web+Developer;Learning+Data+Structures+%26+Algorithms;Passionate+Programmer;Building+Creative+Projects;Turning+Ideas+Into+Code" />
+</p>
+
+---
+
+### 💻 Developer Profile
+
+🌐 Web Developer  
+⚡ C Programmer  
+💻 Creative Coder  
+🎮 Gamer  
+🚀 Tech Enthusiast  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aditya-kumar-060ba6376/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aditya.kumar.j.cg@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Aditya-Kumar-DEV-x5q" target="_blank">
+<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://x.com/AdityaXDev" target="_blank">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
 
+---
+
 <p align="center">
-  🔧 <b>Skills:</b> Web Development &nbsp;|&nbsp;
-   📌<b>Location:</b> Kalol, Gujarat &nbsp;|&nbsp;
-  🎓 <b>Focus:</b> Product Manager in AI
+
+🔧 <b>Skills:</b> Web Development  
+📍 <b>Location:</b> Kalol, Gujarat, India  
+🎓 <b>Education:</b> CodingGita, Swaminarayan University  
+🎯 <b>Goal:</b>  Full Stack Developer and Quality Assurance Engineer
+
 </p>
 
 ---
 
-## 📘 About Me
+# 📘 About Me
 
-I am a **developer** passionate about building interactive tools and logical applications.  
-I enjoy working close to fundamentals — from **C programming** to **clean HTML/CSS layouts**.
+Hi, I'm **Aditya Kumar**, a passionate **Computer Science student** currently studying at **CodingGita, Swaminarayan University**.
 
-- 🔭 **Current Focus:** Improving programming and development skills  
-- ⚡ **Strength:** Debugging C logic & pixel-perfect CSS  
-- 🎨 **Interests:** Interactive web apps using HTML, CSS & JavaScript , react, python, c++ ... etc. 
+I am deeply interested in **software development and modern web technologies**. I enjoy learning new programming concepts and applying them by building practical projects.
+
+My programming journey started with **C programming**, where I developed strong logical thinking and problem-solving skills. Now I am expanding my knowledge in **Web Development and modern JavaScript technologies**.
+
+I believe that the best way to learn programming is by **building projects, solving problems, and staying consistent**.
+
+---
+
+## 🚀 What I Am Currently Doing
+
+📚 Learning **Data Structures & Algorithms**  
+💻 Practicing coding and improving problem-solving skills  
+🌐 Building **web development projects**  
+⚡ Exploring technologies like **React and backend tools**
 
 ---
 
-## <h1 align="center">🛠️ My Tech Toolbox</h1>
+## 🎯 Goals
 
-### <h1 align="center">Languages Known</h1>
+✔ Become a **skilled Software Developer**  
+✔ Build **real-world impactful projects**  
+✔ Contribute to **open-source projects**  
+✔ Grow in the field of **AI and Product Development**
+
+---
+
+# 🛠️ My Tech Toolbox
+
+## Languages Known
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue" />
-</p>
 
-### <h1 align="center">Tools in Backend</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-### <h1 align="center">Languages learn in future</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue"/>
+
 </p>
 
 ---
+
+## Backend & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Projects
 
 ### 🃏 Clone Projects
-*My own clone website projects.*
 
-- **With:** HTML, CSS  
-- 🔗 [View WebPage]()
+My personal clone website projects built using **HTML and CSS**.
+
+🔗 View Project: Coming Soon
 
 ---
 
-## 🚀 Let's Build Something Amazing Together!
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="aditya.kumar.j.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar-DEV&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar-DEV&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🚀 Let's Build Something Amazing Together
+
+<p align="center">
+
+<a href="mailto:aditya.kumar.j.cg@gmail.com">
+
+<img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+⭐ From **Aditya Kumar**
