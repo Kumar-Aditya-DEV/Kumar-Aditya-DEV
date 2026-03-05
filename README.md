@@ -136,8 +136,23 @@ I believe that the best way to learn programming is by **building projects, solv
 # 🚀 Projects
 
 ### 🃏 Clone Projects
-
 My personal clone website projects built using **HTML and CSS**.
+
+🔹 **Blinkit Clone**  
+A frontend clone of Blinkit website UI built using HTML and CSS.  
+🔗 https://github.com/Kumar-Aditya-DEV/Blinkit_Clone  
+
+🔹 **Curve Finance Clone**  
+A clone of the Curve Finance website interface created with HTML and CSS.  
+🔗 https://github.com/Kumar-Aditya-DEV/Curve_Finance_Clone  
+
+🔹 **Rolex Clone**  
+A Rolex website UI clone focusing on layout and styling using HTML and CSS.  
+🔗 https://github.com/Kumar-Aditya-DEV/Rolex_Clone  
+
+🔹 **StockAnalytix Website**  
+A stock analysis themed website project.  
+🔗 https://github.com/Kumar-Aditya-DEV/stockanalytix.netlify.app
 
 🔗 View Project: Coming Soon
 
