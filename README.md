@@ -11,12 +11,12 @@ Computer Science Student | Web Developer | Aspiring Software Developer
 </h4>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Web+Developer;Learning+Data+Structures+%26+Algorithms;Passionate+Programmer;Building+Creative+Projects;Turning+Ideas+Into+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Web+Developer;Learning+Data+Structures+%26+Algorithms;Passionate+Programmer;Building+Creative+Projects;Turning+Ideas+Into+Code"/>
 </p>
 
 ---
 
-### 💻 Developer Profile
+# 💻 Developer Profile
 
 🌐 Web Developer  
 ⚡ C Programmer  
@@ -50,26 +50,48 @@ Computer Science Student | Web Developer | Aspiring Software Developer
 
 ---
 
+<p align="center">
+
+🔧 <b>Skills:</b> Web Development  
+📍 <b>Location:</b> Kalol, Gujarat, India  
+🎓 <b>Education:</b> CodingGita, Swaminarayan University  
+🎯 <b>Goal:</b> Full Stack Developer & QA Engineer  
+
+</p>
+
+---
+
 # 📘 About Me
 
-Hi, I'm **Aditya Kumar**, a passionate **Computer Science student**.
+Hi, I'm **Aditya Kumar**, a passionate **Computer Science student** currently studying at **CodingGita, Swaminarayan University**.
 
 I enjoy building **modern web interfaces** and solving problems using **Data Structures & Algorithms**.
 
-Started with **C programming**, now learning **React and backend technologies**.
+My programming journey started with **C programming**, which built my strong logic and problem-solving skills.
+
+Now I am learning **React, Web Development, and backend technologies**.
 
 ---
 
 # 🚀 What I Am Currently Doing
 
-📚 Learning **DSA**  
-💻 Practicing coding daily  
-🌐 Building **web projects**  
-⚡ Exploring **React & backend tools**
+📚 Learning **Data Structures & Algorithms**  
+💻 Practicing coding regularly  
+🌐 Building **web development projects**  
+⚡ Exploring **React and backend tools**
 
 ---
 
-# 🛠️ Tech Stack
+# 🎯 Goals
+
+✔ Become a **skilled Software Developer**  
+✔ Build **real-world impactful projects**  
+✔ Contribute to **open source projects**  
+✔ Grow in the field of **AI and Product Development**
+
+---
+
+# 🛠️ My Tech Stack
 
 <p align="center">
 
@@ -81,10 +103,37 @@ Started with **C programming**, now learning **React and backend technologies**.
 
 # 🚀 Projects
 
-🔹 Blinkit Clone  
-🔹 Curve Finance Clone  
-🔹 Rolex Clone  
-🔹 StockAnalytix  
+### 🃏 Clone Projects
+
+🔹 **Blinkit Clone**  
+Frontend clone of Blinkit website UI built using HTML & CSS.  
+<a href="https://github.com/Kumar-Aditya-DEV/Blinkit_Clone">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+🔹 **Curve Finance Clone**  
+Clone of Curve Finance website interface built using HTML & CSS.  
+<a href="https://github.com/Kumar-Aditya-DEV/Curve_Finance_Clone">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+🔹 **Rolex Clone**  
+Rolex website UI clone focusing on layout and styling.  
+<a href="https://github.com/Kumar-Aditya-DEV/Rolex_Clone">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+🔹 **StockAnalytix Website**  
+Stock analysis themed website project.  
+<a href="https://github.com/Kumar-Aditya-DEV/stockanalytix.netlify.app">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
@@ -102,11 +151,11 @@ Started with **C programming**, now learning **React and backend technologies**.
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -117,11 +166,15 @@ Started with **C programming**, now learning **React and backend technologies**.
 <p align="center">
 
 <a href="mailto:aditya.kumar.j.cg@gmail.com">
+
 <img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
 
-<!-- Animated Footer -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+⭐ From **Aditya Kumar**
