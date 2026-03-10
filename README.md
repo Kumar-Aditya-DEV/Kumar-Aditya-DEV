@@ -12,13 +12,6 @@
 
 <h1 align="center">I'm Aditya Kumar</h1>
 
-<h4 align="center">
-Computer Science Student | Web Developer | Aspiring Software Developer
-</h4>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Web+Developer;Learning+Data+Structures+%26+Algorithms;Passionate+Programmer;Building+Creative+Projects;Turning+Ideas+Into+Code"/>
-</p>
 
 ---
 
