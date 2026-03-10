@@ -1,6 +1,12 @@
 <!-- Animated Header -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&animation=fadeIn" width="100%"/>
 
+<p align="center" style="margin-top:-150px;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub;Web+Developer;Learning+Data+Structures+%26+Algorithms;Building+Creative+Projects;Turning+Ideas+Into+Code"/>
+</p>
+
+<br><br>
 
 <h3 align="center">Hey 👋 What's Up</h3>
 
@@ -18,11 +24,11 @@ Computer Science Student | Web Developer | Aspiring Software Developer
 
 # 💻 Developer Profile
 
-🌐 Web Developer
-⚡ C Programmer
-💻 Creative Coder
-🎮 Gamer
-🚀 Tech Enthusiast
+🌐 Web Developer  
+⚡ C Programmer  
+💻 Creative Coder  
+🎮 Gamer  
+🚀 Tech Enthusiast  
 
 ---
 
@@ -52,10 +58,10 @@ Computer Science Student | Web Developer | Aspiring Software Developer
 
 <p align="center">
 
-🔧 <b>Skills:</b> Web Development
-📍 <b>Location:</b> Kalol, Gujarat, India
-🎓 <b>Education:</b> CodingGita, Swaminarayan University
-🎯 <b>Goal:</b> Full Stack Developer & QA Engineer
+🔧 <b>Skills:</b> Web Development  
+📍 <b>Location:</b> Kalol, Gujarat, India  
+🎓 <b>Education:</b> CodingGita, Swaminarayan University  
+🎯 <b>Goal:</b> Full Stack Developer & QA Engineer  
 
 </p>
 
@@ -75,18 +81,18 @@ Now I am learning **React, Web Development, and backend technologies**.
 
 # 🚀 What I Am Currently Doing
 
-📚 Learning **Data Structures & Algorithms**
-💻 Practicing coding regularly
-🌐 Building **web development projects**
+📚 Learning **Data Structures & Algorithms**  
+💻 Practicing coding regularly  
+🌐 Building **web development projects**  
 ⚡ Exploring **React and backend tools**
 
 ---
 
 # 🎯 Goals
 
-✔ Become a **skilled Software Developer**
-✔ Build **real-world impactful projects**
-✔ Contribute to **open source projects**
+✔ Become a **skilled Software Developer**  
+✔ Build **real-world impactful projects**  
+✔ Contribute to **open source projects**  
 ✔ Grow in the field of **AI and Product Development**
 
 ---
@@ -105,42 +111,34 @@ Now I am learning **React, Web Development, and backend technologies**.
 
 ### 🃏 Clone Projects
 
-🔹 <b>Blinkit Clone</b>
-Frontend clone of Blinkit website UI built using HTML & CSS.
-
+🔹 **Blinkit Clone**  
+Frontend clone of Blinkit website UI built using HTML & CSS.  
 <a href="https://github.com/Kumar-Aditya-DEV/Blinkit_Clone">
-<img src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
----
+<br>
 
-🔹 <b>Curve Finance Clone</b>
-Clone of Curve Finance website interface built using HTML & CSS.
-
+🔹 **Curve Finance Clone**  
+Clone of Curve Finance website interface built using HTML & CSS.  
 <a href="https://github.com/Kumar-Aditya-DEV/Curve_Finance_Clone">
-<img src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
----
+<br>
 
-🔹 <b>Rolex Clone</b>
-Rolex website UI clone focusing on layout and styling.
-
+🔹 **Rolex Clone**  
+Rolex website UI clone focusing on layout and styling.  
 <a href="https://github.com/Kumar-Aditya-DEV/Rolex_Clone">
-<img src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
----
+<br>
 
-🔹 <b>StockAnalytix Website</b>
-Stock analysis themed website project.
-
-<a href="https://github.com/Kumar-Aditya-DEV">
-<img src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://stockanalytix.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+🔹 **StockAnalytix Website**  
+Stock analysis themed website project.  
+<a href="https://github.com/Kumar-Aditya-DEV/stockanalytix.netlify.app">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 ---
