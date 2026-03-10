@@ -1,6 +1,10 @@
 <!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aditya%20Kumar&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=fadeIn" width="100%"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;Coding+My+Dreams+Into+Reality;Web+Developer;Learning+Data+Structures+%26+Algorithms;Building+Creative+Projects;Turning+Ideas+Into+Code"/>
+</p>
 
 <h3 align="center">Hey 👋 What's Up</h3>
 
