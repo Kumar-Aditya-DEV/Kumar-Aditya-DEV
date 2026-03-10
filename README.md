@@ -161,7 +161,7 @@ Stock analysis themed website project.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Kumar-Aditya-DEV/Kumar-Aditya-DEV/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</p>>
 
 ---
 
