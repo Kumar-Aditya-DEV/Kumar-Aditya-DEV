@@ -160,9 +160,7 @@ Stock analysis themed website project.
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://raw.githubusercontent.com/Kumar-Aditya-DEV/Kumar-Aditya-DEV/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
