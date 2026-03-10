@@ -1,10 +1,12 @@
 <!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&animation=fadeIn" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;Coding+My+Dreams+Into+Reality;Web+Developer;Learning+Data+Structures+%26+Algorithms;Building+Creative+Projects;Turning+Ideas+Into+Code"/>
+<p align="center" style="margin-top:-150px;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub;Web+Developer;Learning+Data+Structures+%26+Algorithms;Building+Creative+Projects;Turning+Ideas+Into+Code"/>
 </p>
+
+<br><br>
 
 <h3 align="center">Hey 👋 What's Up</h3>
 
