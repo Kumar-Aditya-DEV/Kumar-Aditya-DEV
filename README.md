@@ -20,11 +20,11 @@ Computer Science Student | Web Developer | Aspiring Software Developer
 
 # 💻 Developer Profile
 
-🌐 Web Developer
-⚡ C Programmer
-💻 Creative Coder
-🎮 Gamer
-🚀 Tech Enthusiast
+- 🌐 Web Developer  
+- ⚡ C Programmer  
+- 💻 Creative Coder  
+- 🎮 Gamer  
+- 🚀 Tech Enthusiast  
 
 ---
 
@@ -54,9 +54,9 @@ Computer Science Student | Web Developer | Aspiring Software Developer
 
 <p align="center">
 
-🔧 <b>Skills:</b> Web Development
-📍 <b>Location:</b> Kalol, Gujarat, India
-🎓 <b>Education:</b> CodingGita, Swaminarayan University
+🔧 <b>Skills:</b> Web Development <br>
+📍 <b>Location:</b> Kalol, Gujarat, India <br>
+🎓 <b>Education:</b> CodingGita, Swaminarayan University <br>
 🎯 <b>Goal:</b> Full Stack Developer & QA Engineer
 
 </p>
@@ -77,19 +77,19 @@ Now I am learning **React, Web Development, and backend technologies**.
 
 # 🚀 What I Am Currently Doing
 
-📚 Learning **Data Structures & Algorithms**
-💻 Practicing coding regularly
-🌐 Building **web development projects**
-⚡ Exploring **React and backend tools**
+- 📚 Learning **Data Structures & Algorithms**
+- 💻 Practicing coding regularly
+- 🌐 Building **web development projects**
+- ⚡ Exploring **React and backend tools**
 
 ---
 
 # 🎯 Goals
 
-✔ Become a **skilled Software Developer**
-✔ Build **real-world impactful projects**
-✔ Contribute to **open source projects**
-✔ Grow in the field of **AI and Product Development**
+- ✔ Become a **skilled Software Developer**
+- ✔ Build **real-world impactful projects**
+- ✔ Contribute to **open source projects**
+- ✔ Grow in the field of **AI and Product Development**
 
 ---
 
@@ -107,7 +107,7 @@ Now I am learning **React, Web Development, and backend technologies**.
 
 ### 🃏 Clone Projects
 
-🔹 **Blinkit Clone**
+🔹 **Blinkit Clone**  
 Frontend clone of Blinkit website UI built using HTML & CSS.
 
 <a href="https://github.com/Kumar-Aditya-DEV/Blinkit_Clone">
@@ -116,7 +116,7 @@ Frontend clone of Blinkit website UI built using HTML & CSS.
 
 <br>
 
-🔹 **Curve Finance Clone**
+🔹 **Curve Finance Clone**  
 Clone of Curve Finance website interface built using HTML & CSS.
 
 <a href="https://github.com/Kumar-Aditya-DEV/Curve_Finance_Clone">
@@ -125,7 +125,7 @@ Clone of Curve Finance website interface built using HTML & CSS.
 
 <br>
 
-🔹 **Rolex Clone**
+🔹 **Rolex Clone**  
 Rolex website UI clone focusing on layout and styling.
 
 <a href="https://github.com/Kumar-Aditya-DEV/Rolex_Clone">
@@ -135,7 +135,6 @@ Rolex website UI clone focusing on layout and styling.
 <br>
 
 🔹 **StockAnalytix Website**
-Stock analysis themed website project.
 
 <a href="https://stockanalytix.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
@@ -161,7 +160,7 @@ Stock analysis themed website project.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Kumar-Aditya-DEV/Kumar-Aditya-DEV/output/github-contribution-grid-snake-dark.svg"/>
-</p>>
+</p>
 
 ---
 
