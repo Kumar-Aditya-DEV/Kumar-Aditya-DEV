@@ -1,183 +1,24 @@
-<!-- Animated Header -->
+# 💫 About Me:
+Hi, I'm Aditya Kumar, a passionate Computer Science student currently studying at CodingGita, Swaminarayan University.<br><br>I enjoy building modern web interfaces and solving problems using Data Structures & Algorithms.<br><br>My programming journey started with C programming, which built my strong logic and problem-solving skills.<br><br>Now I am learning React, Web Development, and backend technologies.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=220&section=header&animation=fadeIn" width="100%"/>
 
-<p align="center" style="margin-top:-120px;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+GitHub;Web+Developer;Learning+Data+Structures+%26+Algorithms;Building+Creative+Projects;Turning+Ideas+Into+Code"/>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-060ba6376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UCQqrnI61Q8fTUqbdtC6IjZQ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCQqrnI61Q8fTUqbdtC6IjZQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.kumar.j.cg@gmail.com) 
 
-<br><br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kumar-Aditya-DEV&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kumar-Aditya-DEV&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-Aditya-DEV&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="center">Hey 👋 What's Up</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kumar-Aditya-DEV&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h1 align="center">I'm Aditya Kumar</h1>
-
-<h4 align="center">
-Computer Science Student | Web Developer | Aspiring Software Developer
-</h4>
-
----
-
-# 💻 Developer Profile
-
-- 🌐 Web Developer  
-- ⚡ C Programmer  
-- 💻 Creative Coder  
-- 🎮 Gamer  
-- 🚀 Tech Enthusiast  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kumar-Aditya-DEV&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Kumar-Aditya-DEV&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/aditya-kumar-060ba6376/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aditya.kumar.j.cg@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@Aditya-Kumar-DEV-x5q">
-<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://x.com/AdityaXDev">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-🔧 <b>Skills:</b> Web Development <br>
-📍 <b>Location:</b> Kalol, Gujarat, India <br>
-🎓 <b>Education:</b> CodingGita, Swaminarayan University <br>
-🎯 <b>Goal:</b> Full Stack Developer & QA Engineer
-
-</p>
-
----
-
-# 📘 About Me
-
-Hi, I'm **Aditya Kumar**, a passionate **Computer Science student** currently studying at **CodingGita, Swaminarayan University**.
-
-I enjoy building **modern web interfaces** and solving problems using **Data Structures & Algorithms**.
-
-My programming journey started with **C programming**, which built my strong logic and problem-solving skills.
-
-Now I am learning **React, Web Development, and backend technologies**.
-
----
-
-# 🚀 What I Am Currently Doing
-
-- 📚 Learning **Data Structures & Algorithms**
-- 💻 Practicing coding regularly
-- 🌐 Building **web development projects**
-- ⚡ Exploring **React and backend tools**
-
----
-
-# 🎯 Goals
-
-- ✔ Become a **skilled Software Developer**
-- ✔ Build **real-world impactful projects**
-- ✔ Contribute to **open source projects**
-- ✔ Grow in the field of **AI and Product Development**
-
----
-
-# 🛠️ My Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,html,css,js,react,mysql,mongodb,redis,git,github,vscode"/>
-
-</p>
-
----
-
-# 🚀 Projects
-
-### 🃏 Clone Projects
-
-🔹 **Blinkit Clone**  
-Frontend clone of Blinkit website UI built using HTML & CSS.
-
-<a href="https://github.com/Kumar-Aditya-DEV/Blinkit_Clone">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<br>
-
-🔹 **Curve Finance Clone**  
-Clone of Curve Finance website interface built using HTML & CSS.
-
-<a href="https://github.com/Kumar-Aditya-DEV/Curve_Finance_Clone">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<br>
-
-🔹 **Rolex Clone**  
-Rolex website UI clone focusing on layout and styling.
-
-<a href="https://github.com/Kumar-Aditya-DEV/Rolex_Clone">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<br>
-
-🔹 **StockAnalytix Website**
-
-<a href="https://stockanalytix.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar-DEV&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar-DEV&layout=compact&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com/?user=Aditya-Kumar-DEV&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Kumar-Aditya-DEV/Kumar-Aditya-DEV/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🚀 Let's Build Something Amazing Together
-
-<p align="center">
-
-<a href="mailto:aditya.kumar.j.cg@gmail.com">
-
-<img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=120&section=footer"/>
-
-⭐ From **Aditya Kumar**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
