@@ -19,15 +19,15 @@ Hi, I'm Aditya Kumar, a passionate Computer Science student currently studying a
 
 <p align="center">
   <a href="https://github.com/Kumar-Aditya-DEV/Hackthon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=Hackthon&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=Hackthon&theme=tokyonight" />
   </a>
   
   <a href="https://github.com/Kumar-Aditya-DEV/Cpp-sem2-SamirSir">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=Cpp-sem2-SamirSir&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=Cpp-sem2-SamirSir&theme=tokyonight" />
   </a>
   
   <a href="https://github.com/Kumar-Aditya-DEV/DSA_SeriesFromYT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=DSA_SeriesFromYT&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=DSA_SeriesFromYT&theme=tokyonight" />
   </a>
 </p>
 
