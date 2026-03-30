@@ -15,8 +15,21 @@ Hi, I'm Aditya Kumar, a passionate Computer Science student currently studying a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kumar-Aditya-DEV&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kumar-Aditya-DEV&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories
+
+<p align="center">
+  <a href="https://github.com/Kumar-Aditya-DEV/Hackthon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=Hackthon&theme=dark" />
+  </a>
+  
+  <a href="https://github.com/Kumar-Aditya-DEV/Cpp-sem2-SamirSir">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=Cpp-sem2-SamirSir&theme=dark" />
+  </a>
+  
+  <a href="https://github.com/Kumar-Aditya-DEV/DSA_SeriesFromYT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=DSA_SeriesFromYT&theme=dark" />
+  </a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kumar-Aditya-DEV&icon=0&color=0)](https://visitcount.itsvg.in)
