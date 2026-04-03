@@ -51,21 +51,34 @@ const aditya = {
 
 ---
 
+
 <h2 align="center">🛠️ Technology Stack</h2>
 
 <table align="center">
   <tr>
-    <td align="center">
-      <h3>Frontend</h3>
-      HTML • CSS • JavaScript • React • Tailwind
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,redux,javascript,html,css" alt="Frontend Technologies" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=tailwind,materialui" alt="Frontend Frameworks & Libraries" />
+      </div>
     </td>
-    <td align="center">
-      <h3>Backend</h3>
-      Node.js • Express • MongoDB • MySQL
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=docker,redis" alt="Backend Tools & Services" />
+      </div>
     </td>
-    <td align="center">
-      <h3>Tools</h3>
-      Git • GitHub • Postman • Figma • VS Code
+    <td valign="top" width="33%">
+      <h3 align="center">Tools & Platforms</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Development Tools" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platforms" />
+      </div>
     </td>
   </tr>
 </table>
@@ -75,12 +88,16 @@ const aditya = {
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar-Aditya-DEV&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-Aditya-DEV&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-Aditya-DEV&show_icons=true&theme=tokyonight&cache_seconds=1800" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Kumar-Aditya-DEV&theme=tokyonight" width="49%" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kumar-Aditya-DEV&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumar-Aditya-DEV&theme=tokyonight" />
 </div>
 
 ---
