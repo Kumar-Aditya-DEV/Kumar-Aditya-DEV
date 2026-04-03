@@ -128,9 +128,6 @@ const aditya = {
   <a href="mailto:aditya.kumar.j.cg@gmail.com">
     <img src="https://img.icons8.com/fluency/70/gmail.png" width="60" />
   </a>
-  <a href="https://github.com/Kumar-Aditya-DEV">
-    <img src="https://img.icons8.com/fluency/70/github.png" width="60" />
-  </a>
   <a href="https://x.com/UCQqrnI61Q8fTUqbdtC6IjZQ">
     <img src="https://img.icons8.com/fluency/70/twitter.png" width="60" />
   </a>
