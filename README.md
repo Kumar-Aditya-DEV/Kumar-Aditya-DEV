@@ -1,37 +1,138 @@
-# 💫 About Me:
-Hi, I'm Aditya Kumar, a passionate Computer Science student currently studying at CodingGita, Swaminarayan University.<br><br>I enjoy building modern web interfaces and solving problems using Data Structures & Algorithms.<br><br>My programming journey started with C programming, which built my strong logic and problem-solving skills.<br><br>Now I am learning React, Web Development, and backend technologies.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Aditya%20Kumar&fontSize=40&fontColor=ffffff" width="100%">
+</div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Aditya+Kumar;Full+Stack+Developer;DSA+Learner" />
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-060ba6376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UCQqrnI61Q8fTUqbdtC6IjZQ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCQqrnI61Q8fTUqbdtC6IjZQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.kumar.j.cg@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kumar-Aditya-DEV&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kumar-Aditya-DEV&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-Aditya-DEV&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kumar-Aditya-DEV&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repositories
+<div align="center">
+  <a href="https://linkedin.com/in/aditya-kumar-060ba6376">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aditya.kumar.j.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kumar-Aditya-DEV">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/UCQqrnI61Q8fTUqbdtC6IjZQ">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://github.com/Kumar-Aditya-DEV/Hackthon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=Hackthon&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/Kumar-Aditya-DEV/Cpp-sem2-SamirSir">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=Cpp-sem2-SamirSir&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/Kumar-Aditya-DEV/DSA_SeriesFromYT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aditya-DEV&repo=DSA_SeriesFromYT&theme=tokyonight" />
-  </a>
+  <b>🎓 Computer Science Student</b> • <b>🚀 Full Stack Learner</b> • <b>💡 Problem Solver</b>
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kumar-Aditya-DEV&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+
+## 👨‍💻 About Me
+
+I'm Aditya Kumar, a passionate Computer Science student studying at CodingGita, Swaminarayan University.
+
+I enjoy building modern web applications and solving problems using Data Structures & Algorithms.
+
+My journey started with C programming, which built my strong logic and problem-solving skills.
+
+Currently, I am learning React, Web Development, and Backend Technologies.
+
+```javascript
+const aditya = {
+  location: "India",
+  education: "B.Tech in Computer Science",
+  skills: ["C", "C++", "JavaScript", "React", "Node.js"],
+  currentFocus: "Full Stack Development & DSA",
+  passion: "Building useful and scalable web apps"
+};
+```
+
+---
+
+<h2 align="center">🛠️ Technology Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Frontend</h3>
+      HTML • CSS • JavaScript • React • Tailwind
+    </td>
+    <td align="center">
+      <h3>Backend</h3>
+      Node.js • Express • MongoDB • MySQL
+    </td>
+    <td align="center">
+      <h3>Tools</h3>
+      Git • GitHub • Postman • Figma • VS Code
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar-Aditya-DEV&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-Aditya-DEV&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kumar-Aditya-DEV&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+### 🔹 Hackthon
+
+* 💻 Code: https://github.com/Kumar-Aditya-DEV/Hackthon
+
+### 🔹 Cpp-sem2-SamirSir
+
+* 💻 Code: https://github.com/Kumar-Aditya-DEV/Cpp-sem2-SamirSir
+
+### 🔹 DSA Series
+
+* 💻 Code: https://github.com/Kumar-Aditya-DEV/DSA_SeriesFromYT
+
+</div>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/aditya-kumar-060ba6376">
+    <img src="https://img.icons8.com/fluency/70/linkedin.png" width="60" />
+  </a>
+  <a href="mailto:aditya.kumar.j.cg@gmail.com">
+    <img src="https://img.icons8.com/fluency/70/gmail.png" width="60" />
+  </a>
+  <a href="https://github.com/Kumar-Aditya-DEV">
+    <img src="https://img.icons8.com/fluency/70/github.png" width="60" />
+  </a>
+  <a href="https://x.com/UCQqrnI61Q8fTUqbdtC6IjZQ">
+    <img src="https://img.icons8.com/fluency/70/twitter.png" width="60" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>🚀 Always learning & building!</h3>
+  <blockquote>
+    <p>"Code. Learn. Build. Repeat."</p>
+  </blockquote>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
+</div>
