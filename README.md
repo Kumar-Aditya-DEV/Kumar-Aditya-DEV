@@ -1,149 +1,186 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Aditya%20Kumar&fontSize=40&fontColor=ffffff" width="100%">
-</div>
+<!-- Animated Header -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Aditya+Kumar;Full+Stack+Developer;DSA+Learner" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&animation=fadeIn" width="100%"/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/aditya-kumar-060ba6376">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aditya.kumar.j.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/UCQqrnI61Q8fTUqbdtC6IjZQ">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</div>
+<p align="center" style="margin-top:-150px;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub;Web+Developer;Learning+Data+Structures+%26+Algorithms;Building+Creative+Projects;Turning+Ideas+Into+Code"/>
+</p>
+
+<br><br>
+
+<h3 align="center">Hey 👋 What's Up</h3>
+
+<h1 align="center">I'm Aditya Kumar</h1>
+
+<h4 align="center">
+Computer Science Student | Web Developer | Aspiring Software Developer
+</h4>
 
 <p align="center">
-  <b>🎓 Computer Science Student</b> • <b>🚀 Full Stack Learner</b> • <b>💡 Problem Solver</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Web+Developer;Learning+Data+Structures+%26+Algorithms;Passionate+Programmer;Building+Creative+Projects;Turning+Ideas+Into+Code"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+# 💻 Developer Profile
 
-## 👨‍💻 About Me
-
-I'm Aditya Kumar, a passionate Computer Science student studying at CodingGita, Swaminarayan University.
-
-I enjoy building modern web applications and solving problems using Data Structures & Algorithms.
-
-My journey started with C programming, which built my strong logic and problem-solving skills.
-
-Currently, I am learning React, Web Development, and Backend Technologies.
-
-```javascript
-const aditya = {
-  location: "India",
-  education: "B.Tech in Computer Science",
-  skills: ["C", "C++", "JavaScript", "React", "Node.js"],
-  currentFocus: "Full Stack Development & DSA",
-  passion: "Building useful and scalable web apps"
-};
-```
+🌐 Web Developer  
+⚡ C Programmer  
+💻 Creative Coder  
+🎮 Gamer  
+🚀 Tech Enthusiast  
 
 ---
 
+# 🌐 Connect With Me
 
-<h2 align="center">🛠️ Technology Stack</h2>
+<p align="center">
 
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,redux,javascript,html,css" alt="Frontend Technologies" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=tailwind,materialui" alt="Frontend Frameworks & Libraries" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=docker,redis" alt="Backend Tools & Services" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Tools & Platforms</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Development Tools" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platforms" />
-      </div>
-    </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/aditya-kumar-060ba6376/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aditya.kumar.j.cg@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Aditya-Kumar-DEV-x5q">
+<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://x.com/AdityaXDev">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-Aditya-DEV&show_icons=true&theme=tokyonight&cache_seconds=1800" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Kumar-Aditya-DEV&theme=tokyonight" width="49%" />
-</div>
+🔧 <b>Skills:</b> Web Development  
+📍 <b>Location:</b> Kalol, Gujarat, India  
+🎓 <b>Education:</b> CodingGita, Swaminarayan University  
+🎯 <b>Goal:</b> Full Stack Developer & QA Engineer  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kumar-Aditya-DEV&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumar-Aditya-DEV&theme=tokyonight" />
-</div>
+</p>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+# 📘 About Me
 
-<div align="center">
+Hi, I'm **Aditya Kumar**, a passionate **Computer Science student** currently studying at **CodingGita, Swaminarayan University**.
 
-### 🔹 Hackthon
+I enjoy building **modern web interfaces** and solving problems using **Data Structures & Algorithms**.
 
-* 💻 Code: https://github.com/Kumar-Aditya-DEV/Hackthon
+My programming journey started with **C programming**, which built my strong logic and problem-solving skills.
 
-### 🔹 Cpp-sem2-SamirSir
-
-* 💻 Code: https://github.com/Kumar-Aditya-DEV/Cpp-sem2-SamirSir
-
-### 🔹 DSA Series
-
-* 💻 Code: https://github.com/Kumar-Aditya-DEV/DSA_SeriesFromYT
-
-</div>
+Now I am learning **React, Web Development, and backend technologies**.
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+# 🚀 What I Am Currently Doing
 
-<div align="center">
-  <a href="https://linkedin.com/in/aditya-kumar-060ba6376">
-    <img src="https://img.icons8.com/fluency/70/linkedin.png" width="60" />
-  </a>
-  <a href="mailto:aditya.kumar.j.cg@gmail.com">
-    <img src="https://img.icons8.com/fluency/70/gmail.png" width="60" />
-  </a>
-  <a href="https://x.com/UCQqrnI61Q8fTUqbdtC6IjZQ">
-    <img src="https://img.icons8.com/fluency/70/twitter.png" width="60" />
-  </a>
-</div>
+📚 Learning **Data Structures & Algorithms**  
+💻 Practicing coding regularly  
+🌐 Building **web development projects**  
+⚡ Exploring **React and backend tools**
 
 ---
 
-<div align="center">
-  <h3>🚀 Always learning & building!</h3>
-  <blockquote>
-    <p>"Code. Learn. Build. Repeat."</p>
-  </blockquote>
-</div>
+# 🎯 Goals
+
+✔ Become a **skilled Software Developer**  
+✔ Build **real-world impactful projects**  
+✔ Contribute to **open source projects**  
+✔ Grow in the field of **AI and Product Development**
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
-</div>
+# 🛠️ My Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,html,css,js,react,mysql,mongodb,redis,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Projects
+
+### 🃏 Clone Projects
+
+🔹 **Blinkit Clone**  
+Frontend clone of Blinkit website UI built using HTML & CSS.  
+<a href="https://github.com/Kumar-Aditya-DEV/Blinkit_Clone">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+🔹 **Curve Finance Clone**  
+Clone of Curve Finance website interface built using HTML & CSS.  
+<a href="https://github.com/Kumar-Aditya-DEV/Curve_Finance_Clone">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+🔹 **Rolex Clone**  
+Rolex website UI clone focusing on layout and styling.  
+<a href="https://github.com/Kumar-Aditya-DEV/Rolex_Clone">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+🔹 **StockAnalytix Website**  
+Stock analysis themed website project.  
+<a href="https://github.com/Kumar-Aditya-DEV/stockanalytix.netlify.app">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar-DEV&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar-DEV&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com/?user=Aditya-Kumar-DEV&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 Let's Build Something Amazing Together
+
+<p align="center">
+
+<a href="mailto:aditya.kumar.j.cg@gmail.com">
+
+<img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+⭐ From **Aditya Kumar**
