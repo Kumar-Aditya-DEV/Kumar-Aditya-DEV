@@ -44,7 +44,7 @@ Computer Science Student | Web Developer | Aspiring Software Developer
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@Aditya-Kumar-DEV-x5q">
+<a href="https://www.youtube.com/@CodeVerseAditya">
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
