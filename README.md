@@ -1,34 +1,36 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&animation=fadeIn" width="100%"/>
+<!-- ================= HEADER ================= -->
 
-<p align="center" style="margin-top:-150px;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aditya+Kumar;Frontend+Developer;Learning+DSA;Building+Creative+Projects;Turning+Ideas+Into+Code"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aditya%20Kumar&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aditya+Kumar;Full+Stack+Developer+💻;Building+Scalable+Web+Apps;Open+to+Opportunities+🚀" />
 </p>
-
-<br><br>
-
-<h3 align="center">Hey 👋 What's Up</h3>
-
-<h1 align="center">I'm Aditya Kumar</h1>
-
-<h4 align="center">
-Frontend Developer 💼 | Aspiring Software Developer
-</h4>
-
----
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Kumar-Aditya-DEV">
+    <img src="https://komarev.com/ghpvc/?username=Kumar-Aditya-DEV&label=Profile%20Views&color=7aa2f7&style=flat" />
+  </a>
+</p>
 
 ## 👨‍💻 About Me
 
-<p>
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height="190" width="400" align="right" style="margin-left:20px;" />
-</p>
+<table align="center">
+<tr>
+<td>
 
-- 💻 Frontend Developer passionate about building modern UI  
+- 💻 Frontend Developer passionate about modern UI  
 - 🌐 Skilled in HTML, CSS, JavaScript, Git & GitHub  
-- 🧠 Currently learning Data Structures & Algorithms  
-- 🎨 Interested in UI/UX design for better user experience  
-- 🚀 Building real-world projects and improving daily  
-- 🤝 Open to collaboration and learning opportunities  
+- 🧠 Learning Data Structures & Algorithms  
+- 🎨 Interested in UI/UX design  
+- 🚀 Building real-world projects  
+- 🤝 Open to collaboration  
+
+</td>
+
+<td>
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="180"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -52,65 +54,66 @@ Frontend Developer 💼 | Aspiring Software Developer
 <img src="https://img.shields.io/badge/X-1a1b26?style=for-the-badge&logo=x&logoColor=ffffff"/>
 </a>
 
+<a href="mailto:aditya.kumar.j.cg@gmail.com">
+<img src="https://img.shields.io/badge/Contact%20Me-Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="YOUR_RESUME_LINK_HERE">
+<img src="https://img.shields.io/badge/View%20Resume-1a1b26?style=for-the-badge&logo=googledrive&logoColor=7dcfff"/>
+</a>
+
 </p>
-
----
-
-## 🚀 What I Am Doing
-
-- 📚 Learning Data Structures & Algorithms  
-- 💻 Practicing coding consistently  
-- 🌐 Building web development projects  
-- ⚡ Exploring React and backend tools  
-
----
-
-## 🎯 Goals
-
-- ✔ Become a skilled Software Developer  
-- ✔ Build impactful real-world projects  
-- ✔ Contribute to open-source  
-- ✔ Grow in AI & Product Development  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,html,css,js,react,mysql,mongodb,git,github,vscode"/>
-</p>
+<div align="center">
 
----
+### 🎨 Frontend
 
-## 🚀 Projects
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### 🃏 Clone Projects
+<br/>
 
-🔹 **Blinkit Clone**  
-<a href="https://github.com/Kumar-Aditya-DEV/Blinkit_Clone">
-<img src="https://img.shields.io/badge/View%20Project-1a1b26?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### ⚙️ Backend
 
-<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-🔹 **Curve Finance Clone**  
-<a href="https://github.com/Kumar-Aditya-DEV/Curve_Finance_Clone">
-<img src="https://img.shields.io/badge/View%20Project-1a1b26?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<br>
+### 💻 Languages
 
-🔹 **Rolex Clone**  
-<a href="https://github.com/Kumar-Aditya-DEV/Rolex_Clone">
-<img src="https://img.shields.io/badge/View%20Project-1a1b26?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br>
+<br/>
 
-🔹 **StockAnalytix Website**  
-<a href="https://github.com/Kumar-Aditya-DEV/stockanalytix.netlify.app">
-<img src="https://img.shields.io/badge/View%20Project-1a1b26?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
@@ -122,32 +125,18 @@ Frontend Developer 💼 | Aspiring Software Developer
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-Aditya-DEV&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com/?user=Kumar-Aditya-DEV&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+ <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kumar-Aditya-DEV&theme=tokyonight"/>
+</p> 
 
----
+<br>
 
-## 🚀 Let's Build Something Amazing Together
-
-<p align="center">
-
-<a href="mailto:aditya.kumar.j.cg@gmail.com">
-<img src="https://img.shields.io/badge/Contact%20Me-Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" width="100%"/>
 
 ⭐ From **Aditya Kumar**
