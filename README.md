@@ -47,8 +47,12 @@
 <img src="https://img.shields.io/badge/X-1a1b26?style=for-the-badge&logo=x&logoColor=ffffff"/>
 </a>
 
-<a href="YOUR_RESUME_LINK_HERE">
+<a href="https://drive.google.com/file/d/1dUpP40ENd77i_eeWoTbX94XiqC1zrU8N/view">
 <img src="https://img.shields.io/badge/View%20Resume-1a1b26?style=for-the-badge&logo=googledrive&logoColor=7dcfff"/>
+</a>
+
+<a href="https://aditya-kumar-p-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
 </a>
 
 </p>
