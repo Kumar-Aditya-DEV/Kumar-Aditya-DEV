@@ -10,27 +10,20 @@
   </a>
 </p>
 
+---
 ## 👨‍💻 About Me
 
-<table align="center">
-<tr>
-<td>
+<p>
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height="190" width="400" align="right" style="margin-left:20px;" />
+</p>
 
-- 💻 Frontend Developer passionate about modern UI  
-- 🌐 Skilled in HTML, CSS, JavaScript, Git & GitHub  
-- 🧠 Learning Data Structures & Algorithms  
-- 🎨 Interested in UI/UX design  
-- 🚀 Building real-world projects  
-- 🤝 Open to collaboration  
-
-</td>
-
-<td>
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="180"/>
-</td>
-
-</tr>
-</table>
+- 💻 Frontend Developer passionate about modern UI
+- 🌐 Skilled in HTML, CSS, JavaScript, Git & GitHub
+- 🧠 Learning Data Structures & Algorithms
+- 🎨 Interested in UI/UX design
+- 🚀 Building real-world projects
+- 🤝 Enjoy collaborating and working in **team environments**  
+- 💡 Fun fact: I’m a **creative person** and I love my country 🇮🇳  
 
 ---
 
@@ -52,10 +45,6 @@
 
 <a href="https://x.com/AdityaXDev">
 <img src="https://img.shields.io/badge/X-1a1b26?style=for-the-badge&logo=x&logoColor=ffffff"/>
-</a>
-
-<a href="mailto:aditya.kumar.j.cg@gmail.com">
-<img src="https://img.shields.io/badge/Contact%20Me-Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="YOUR_RESUME_LINK_HERE">
