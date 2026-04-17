@@ -124,8 +124,4 @@
   <img src="https://streak-stats.demolab.com/?user=Kumar-Aditya-DEV&theme=tokyonight"/>
 </p> 
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" width="100%"/>
-
-⭐ From **Aditya Kumar**
