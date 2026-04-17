@@ -1,6 +1,8 @@
 <!-- ================= HEADER ================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aditya%20Kumar&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aditya+Kumar;Full+Stack+Developer+💻;Building+Scalable+Web+Apps;Open+to+Opportunities+🚀" />
 </p>
@@ -119,5 +121,7 @@
  <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kumar-Aditya-DEV&theme=tokyonight"/>
 </p> 
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" width="100%"/>
