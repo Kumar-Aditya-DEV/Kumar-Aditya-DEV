@@ -31,20 +31,12 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aditya-kumar-060ba6376/">
-<img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
 <a href="mailto:aditya.kumar.j.cg@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://www.youtube.com/@CodeVerseAditya">
 <img src="https://img.shields.io/badge/Youtube-1a1b26?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
-</a>
-
-<a href="https://x.com/AdityaXDev">
-<img src="https://img.shields.io/badge/X-1a1b26?style=for-the-badge&logo=x&logoColor=ffffff"/>
 </a>
 
 <a href="https://drive.google.com/file/d/1dUpP40ENd77i_eeWoTbX94XiqC1zrU8N/view">
