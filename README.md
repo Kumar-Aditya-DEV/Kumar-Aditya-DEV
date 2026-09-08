@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Youtube-1a1b26?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1dUpP40ENd77i_eeWoTbX94XiqC1zrU8N/view">
+<a href="https://drive.google.com/file/d/1nKZrgGZu8G3TseIFF3VYnzqIF6qsWgzD/view?usp=sharing">
 <img src="https://img.shields.io/badge/View%20Resume-1a1b26?style=for-the-badge&logo=googledrive&logoColor=7dcfff"/>
 </a>
 
